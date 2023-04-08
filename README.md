@@ -18,4 +18,4 @@ Insights from  report include:
 
 -and Amazon, Flipkart, and Myntra channels are the largest contributors (~80%).
 
- - Conclusion to improve sales: Targeting women clients in the 30-49 age range who live in Maharashtra, Karnataka, and Uttar Pradesh with offers/ads/coupons from Amazon, Flipkart, and Myntra would help the business develop even more.
+ - Conclusion to improve sales: Target women clients in the 30-49 age range who live in Maharashtra, Karnataka, and Uttar Pradesh with offers/ads/coupons from Amazon, Flipkart, and Myntra would help the business develop even more.
